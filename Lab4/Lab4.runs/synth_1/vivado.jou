@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Oct 15 23:36:48 2024
+# Process ID: 36856
+# Current directory: C:/Users/chadl/Documents/SC1005 Lab/Lab4/Lab4.runs/synth_1
+# Command line: vivado.exe -log vaddoflow.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source vaddoflow.tcl
+# Log file: C:/Users/chadl/Documents/SC1005 Lab/Lab4/Lab4.runs/synth_1/vaddoflow.vds
+# Journal file: C:/Users/chadl/Documents/SC1005 Lab/Lab4/Lab4.runs/synth_1\vivado.jou
+# Running On        :LAPTOP-RNHVG0E1
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :Intel(R) Core(TM) Ultra 5 125H
+# CPU Frequency     :2995 MHz
+# CPU Physical cores:14
+# CPU Logical cores :18
+# Host memory       :16766 MB
+# Swap memory       :12884 MB
+# Total Virtual     :29650 MB
+# Available Virtual :7761 MB
+#-----------------------------------------------------------
+source vaddoflow.tcl -notrace
