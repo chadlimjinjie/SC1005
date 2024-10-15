@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../../OneDrive - Nanyang Technological University/Year 1/Semester 1/SC1005 Digital Logic/Laboratory materials/Lab 4/lab4/segtoggle.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

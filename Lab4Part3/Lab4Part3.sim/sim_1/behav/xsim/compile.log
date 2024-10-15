@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/chadl/OneDrive - Nanyang Technological University/Year 1/Semester 1/SC1005 Digital Logic/Laboratory materials/Lab 4/lab4/segtoggle.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module segtoggle
+WARNING: [VRFC 10-3380] identifier 'benchNo_10' is used before its declaration [C:/Users/chadl/OneDrive - Nanyang Technological University/Year 1/Semester 1/SC1005 Digital Logic/Laboratory materials/Lab 4/lab4/segtoggle.v:39]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/chadl/Documents/SC1005 Lab/Lab4Part3/Lab4Part3.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
