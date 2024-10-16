@@ -1,2 +1,2 @@
-# SC1005 Digital Logic Lab
-<!-- For y'all stuck with Digital Logic lab -->
+# SC1005 Digital Logic Verilog
+<!-- For y'all stuck with Digital Logic tutorial/lab -->
